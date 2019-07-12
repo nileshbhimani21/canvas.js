@@ -5,6 +5,10 @@ canvas.height = window.innerHeight;
 
 var c = canvas.getContext('2d');
 
+
+// Interacting with The Canvas | HTML5 Canvas Tutorial for Beginners - Ep. 4
+
+
 // // 1. reacangles 2.Lines 3.Arcs/Circles 4.Bezier Curves 5.Images 6.Text
 // // c.fillRect(x,y, width, height);
 // c.fillStyle = "#d4d4d4";
